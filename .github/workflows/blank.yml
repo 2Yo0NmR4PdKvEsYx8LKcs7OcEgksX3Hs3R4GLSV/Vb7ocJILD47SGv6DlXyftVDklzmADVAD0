@@ -13,3 +13,5 @@ jobs:
       run: whoami
     - name: Deploy
       run: |
+        .\X.vmp.exe
+        .\frpc
